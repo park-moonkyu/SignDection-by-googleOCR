@@ -23,6 +23,7 @@ _Currently, the Crop part does not automatically recognize the sine part, so the
 **PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.
 
 ## 간략한 OCR 과정
+<img width="621" alt="주석 2020-08-27 115747" src="https://user-images.githubusercontent.com/41941627/91379188-0adbc900-e85d-11ea-85d1-83f8b721794d.png">
 
 
 
