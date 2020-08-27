@@ -34,4 +34,7 @@ PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.<br>
 ## 간략한 OCR 과정
 <img width="621" alt="주석 2020-08-27 115747" src="https://user-images.githubusercontent.com/41941627/91379188-0adbc900-e85d-11ea-85d1-83f8b721794d.png">
 
-
+<br><br>
+==================================================
+##2020.08.27 추가 작업 내용입니다.
+<img width="606" alt="zzzz" src="https://user-images.githubusercontent.com/41941627/91419764-c36e3080-e88e-11ea-9828-1622956b46f6.png">
