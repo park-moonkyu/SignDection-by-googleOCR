@@ -1,4 +1,4 @@
-# SignDection-by-googleOCR
+# SignDection-OCR(서명 유/무 판단 OCR)
 
 ## Introduction 
 
@@ -15,23 +15,23 @@ _To check the cause of death, we used PIL Package to crop the part.
 _Currently, the Crop part does not automatically recognize the sine part, so the developer has to set the coordinates for the sine part that matches the document.
   
   
-  <br><br><br><br>
+  <br><br>
   
   
 ## How to Use
 
 먼저 Google API 키를 할당 받으셔아합니다.<br>
-그후, API 사용법은 Google Vision에 자세히 나와있으니 Vision을 참고하시면 됩니다.<br>
+API를 사용하기 앞서 윈도우/맥 환경에 맞춰서  os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="YOUR File.json" 과정도 필요합니다.<br>
+자세한 OCR 사용법은  길게 설명하지 않겠습니다. Google Vision에 자세히 나와있으니 해당 홈페이지를 참고하시면 됩니다.<br><br>
 
 API 키 부분이 본인의 API키를 넣어줍니다.<br>
 PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.<br>
 
 
-<br><br><br><br>
+<br><br>
 
 
 ## 간략한 OCR 과정
 <img width="621" alt="주석 2020-08-27 115747" src="https://user-images.githubusercontent.com/41941627/91379188-0adbc900-e85d-11ea-85d1-83f8b721794d.png">
-
 
 
