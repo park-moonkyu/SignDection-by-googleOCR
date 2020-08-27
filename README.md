@@ -20,14 +20,14 @@ _Currently, the Crop part does not automatically recognize the sine part, so the
   
 ## How to Use
 
-먼저 Google API 키를 할당 받으셔아합니다.
-그후, API 사용법은 Google Vision에 자세히 나와있으니 Vision을 참고하시면 됩니다.
+먼저 Google API 키를 할당 받으셔아합니다.<br>
+그후, API 사용법은 Google Vision에 자세히 나와있으니 Vision을 참고하시면 됩니다.<br>
 
-**API 키 부분이 본인의 API키를 넣어줍니다.
-**PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.
+API 키 부분이 본인의 API키를 넣어줍니다.<br>
+PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.<br>
 
 
-
+<br><br><br><br>
 
 
 ## 간략한 OCR 과정
