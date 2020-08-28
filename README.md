@@ -1,5 +1,4 @@
 # SignDection-OCR(서명 유/무 판단 OCR)
-
 ## Introduction 
 
 계약서 및 다양한 Signature의 유무를 판단합니다<br>
@@ -14,9 +13,7 @@ _To check the cause of death, we used PIL Package to crop the part.
 현재, Crop부분은 자동으로 사인부분을 인지하지 못하여 직접 개발자가 해당 문서에 맞는 사인 부분의 좌표값을 설정해야합니다.<br>
 _Currently, the Crop part does not automatically recognize the sine part, so the developer has to set the coordinates for the sine part that matches the document.
   
-  
   <br><br>
-  
   
 ## How to Use
 
@@ -29,6 +26,8 @@ PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.<br>
 
 
 <br><br>
+
+##앞으로의 진행 상황
 
 
 ## 간략한 OCR 과정
