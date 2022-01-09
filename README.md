@@ -50,7 +50,6 @@ PATH부분에 본인이 확인하고자하는 문서를 넣어줍니다.<br>
 <br><br>
 <img width="606" alt="zzzz" src="https://user-images.githubusercontent.com/41941627/91419764-c36e3080-e88e-11ea-9828-1622956b46f6.png">
 
-
 ##2020.09.16 추가 작업 내용입니다.
 
 Crop 자동화를 위해 그림의 사이즈를 받아 6등분합니다. 3 by 2 행렬 의 형식.
